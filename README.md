@@ -23,8 +23,8 @@ This project automates the process of sending personalized emails using the Mail
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/nouredinekn/mailgun-sender.git
+   cd mailgun-sender
    ```
 
 2. **Install Required Dependencies**:
@@ -58,7 +58,7 @@ This project automates the process of sending personalized emails using the Mail
 1. **Run the Script**:
    Start the script to begin sending emails:
    ```bash
-   python "emailgun sender.py"
+   python emailgun-sender.py
    ```
 
 

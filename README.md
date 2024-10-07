@@ -1,5 +1,5 @@
 
-# Email Automation with Mailgun
+# Email Automation with Mailgun - sender 
 
 ## Overview
 
